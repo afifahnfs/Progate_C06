@@ -1,1 +1,3 @@
-# Progate_C06
+# Progate_C06 (Fadli & Afifah)
+@fadli9182
+@pipah14
